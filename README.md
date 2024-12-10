@@ -1,1 +1,1 @@
-# DS2002Capstone
+# DS 2002 Capstone
